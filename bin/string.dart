@@ -36,6 +36,7 @@ void main() {
    * Jika terdapat string yang panjang bisa menggunakan ''''''(tanda petik 3)
    */
 
+  //Multiline String
   String text2 = '''
 ini merupakan text yang sangat panjang
 karena terlalu panjang
