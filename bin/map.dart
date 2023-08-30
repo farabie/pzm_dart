@@ -22,4 +22,12 @@ void main() {
 
   names.remove('lastName'); // -> Yang dihapus yaitu key nya saja
   print(names);
+
+  var product = {
+    'name': 'Abal-abal',
+    'harga': 100000,
+    'status': 'Masih tersedia'
+  }; //Deklrasi langsung map
+
+  print(product);
 }
