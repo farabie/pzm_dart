@@ -13,7 +13,7 @@ void main() {
 
   for (int counter2 = 0; counter2 <= 100; counter2++) {
     if (counter2 % 2 == 1) {
-      continue;
+      continue; //Continue digunakan untuk menghentikan perulangan saat ini lalu melanjutkan ke perulangan selanjutnya
     }
     print('Perulangan Genap ke $counter2');
   }
